@@ -4,6 +4,19 @@ Soy **Ingeniero de Software** especializado en desarrollo **Fullstack** y **apli
 
 ---
 
+
+## 🖥️ Lenguajes de Programación
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
 ## 🛠 Tecnologías y Herramientas
 
 ### Frontend
@@ -29,9 +42,11 @@ Soy **Ingeniero de Software** especializado en desarrollo **Fullstack** y **apli
 
 ## 🚀 Proyectos Destacados
 
-- [Mini CRM Fullstack](https://github.com/ricardochi/mini-crm) - Gestión de leads con dashboard en Vue 3 y backend en Node.js.
-- [Pixel Art Generator](https://github.com/ricardochi/pixel-art-app) - Convierte imágenes en pixel art estilo retro 8/16-bit.
-- [App Flutter Control de Embarcaciones](https://github.com/ricardochi/flutter-boat-control) - Monitoreo de aforo en embarcaciones de Playa del Carmen a Cozumel.
+SISTEMA DE REPORTES DE BACHES
+TIENDA EN LINEA HYPER-CREW
+SISTEMA DE GESTION DE ESTADIAS
+FEELINK - SISTEMA DE MONITOREO CON IOT
+DOGNI -SITEMA DE DONACIONES 
 
 ---
 
@@ -43,9 +58,9 @@ Soy **Ingeniero de Software** especializado en desarrollo **Fullstack** y **apli
 
 ## 📫 Contacto
 
-- Email: ricardochi@example.com  
-- LinkedIn: [linkedin.com/in/ricardochi](https://linkedin.com/in/ricardochi)  
-- Twitter: [@ricardochi](https://twitter.com/ricardochi)
+- Email: ricardojch1chan@gmail.com  
+- LinkedIn: [linkedin.com/in/ricardo-jesus-chi-chan](http://linkedin.com/in/ricardo-jesus-chi-chan-71a6972b4  )
+- Instagram: riccardo.jch
 
 ---
 
